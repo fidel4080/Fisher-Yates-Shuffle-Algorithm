@@ -1,4 +1,4 @@
-//A Program To Shuffle Arrays
+//A Program To Shuffle Elements in Arrays
 
 //Fisher-Yates algorithm 
 
